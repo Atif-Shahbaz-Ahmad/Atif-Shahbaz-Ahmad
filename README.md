@@ -61,3 +61,22 @@ A website for coffee, beverages and snacks, designed for restaurants to showcase
 ---
 
 *Curious mind. Builder by passion. Engineer in progress.*
+
+### 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,js,react,nodejs,express,mongodb,flask,html,css,tailwind,git,github,supabase)](https://skillicons.dev)
+
+### 🤖 AI & Machine Learning
+
+- Machine Learning
+- Natural Language Processing
+- Neural Networks
+- Hugging Face Transformers
+- PySpark
+- LLMs and Prompt Engineering
+
+- ### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atif-Shahbaz-Ahmad&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atif-Shahbaz-Ahmad&layout=compact&theme=tokyonight)
