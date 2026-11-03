@@ -74,9 +74,3 @@ A website for coffee, beverages and snacks, designed for restaurants to showcase
 - Hugging Face Transformers
 - PySpark
 - LLMs and Prompt Engineering
-
-- ### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atif-Shahbaz-Ahmad&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atif-Shahbaz-Ahmad&layout=compact&theme=tokyonight)
